@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/93421507/139532078-f87bdfe6-d18c-489f-8b20-025ea2664f0b.png)
+![image](https://user-images.githubusercontent.com/93421507/139532482-98404346-4dd9-4da7-bbb5-cbaecb84a31d.png)
 
 
 - 👀 I’m interested in Azure / Kubernetes / IaC
